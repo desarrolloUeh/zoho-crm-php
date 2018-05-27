@@ -1,15 +1,14 @@
 {
-    "name": "tristanjahier/zoho-crm-php",
+    "name": "xur/zoho-crm-php",
     "description": "A PHP wrapper library for Zoho CRM API.",
     "keywords": ["PHP", "Zoho", "CRM", "API", "wrapper"],
-    "homepage": "https://github.com/tristanjahier/zoho-crm-php",
+    "homepage": "https://github.com/xur/zoho-crm-php",
     "license": "MIT",
     "type": "library",
     "authors": [
         {
-            "name": "Tristan Jahier",
-            "email": "tristan.jahier@gmail.com",
-            "homepage": "http://tristan.jahier.fr",
+            "name": "XUR from The Destiny",
+            "email": "xur@artisans.website",
             "role": "Developer"
         }
     ],
