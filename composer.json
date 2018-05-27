@@ -1,5 +1,5 @@
 {
-    "name": "xur/zoho-crm-php",
+    "name": "xur/zoho-crm-php-wrapper",
     "description": "A PHP wrapper library for Zoho CRM API.",
     "keywords": ["PHP", "Zoho", "CRM", "API", "wrapper"],
     "homepage": "https://github.com/xur/zoho-crm-php",
